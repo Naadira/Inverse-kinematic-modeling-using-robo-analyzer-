@@ -37,16 +37,24 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
-
-
-
-
-
-
+1.Open the roboanalyzer software.
+2.Select the robot and its degrees of freedom.
+3.Change the values of X and Y wherever necessary.
+4.Stimulate the model for inverse kinematics.
+5.Plot the graph between the joints.
+6.Update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
- 
- 
+
+RPR ROBOT:
+
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/abda3d19-1fab-4dbd-90dc-4bff17a7e041)
+
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/e6fad59c-d5e0-4b84-b01d-5db054b7f438)
+
+3R ROBOT:
+
+
  
  
  
