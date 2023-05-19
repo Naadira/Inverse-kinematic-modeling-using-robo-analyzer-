@@ -54,40 +54,26 @@ RPR ROBOT:
 
 3R ROBOT:
 
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/fc280ba0-f14b-449b-8b6d-593f3a9c743c)
 
- 
- 
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/125ad973-2f1d-485b-a1af-ab76608d6464)
  
  
  
  ### PLOT 
+ RPR ROBOT:
+
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/02cde84d-7fe7-49fd-9aca-fe7af8b418e9)
+ 
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/43f40d3e-59b4-47dc-9218-408b8ea7b097)
+ 
+3R ROBOT:
+
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/93d597ca-331d-43d9-a605-874f55ef3d5c)
+ 
+![image](https://github.com/Naadira/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135126/2e17d962-2d51-4ac7-87c1-f56253e8dde8)
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### RESULTS :  
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
