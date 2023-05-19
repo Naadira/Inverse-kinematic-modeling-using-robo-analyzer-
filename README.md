@@ -37,12 +37,12 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
-1.Open the roboanalyzer software.
-2.Select the robot and its degrees of freedom.
-3.Change the values of X and Y wherever necessary.
-4.Stimulate the model for inverse kinematics.
-5.Plot the graph between the joints.
-6.Update the DH parameters of the link configuration and end effector configuration.
+1. Open the roboanalyzer software.
+2. Select the robot and its degrees of freedom.
+3. Change the values of X and Y wherever necessary.
+4. Stimulate the model for inverse kinematics.
+5. Plot the graph between the joints.
+6. Update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
 
